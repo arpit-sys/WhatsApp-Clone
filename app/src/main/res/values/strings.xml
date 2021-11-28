@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">ChatApp</string>
+    <string name="page_name" translatable="false">Registration</string>
+    <string name="user" translatable="false">Username</string>
+    <string name="password">Password</string>
+    <string name="mail" translatable="false">e-mail</string>
+    <string name="RegisterBTN" translatable="false">Register</string>
+    <string name="loginText" translatable="false">Login</string>
+    <string name="signUP" translatable="false">Not a Member? Register Now</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
